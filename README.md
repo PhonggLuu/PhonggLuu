@@ -2,7 +2,8 @@
 My name is Luu Phong. I am a student of FPT University, majoring in Software Engineer. I am interested in the following topics: Back-end Developer with .NET. <br>
 ## 📫 How to reach me: 
 
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phongluuu/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/phonggluu/) 
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/phongluuu/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/phonggluu/)
 
 <a href="https://github.com/PhonggLuu/RunningRace"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phonggluu&layout=compact&theme=buefy&hide_border=true" /></a>
 
