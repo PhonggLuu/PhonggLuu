@@ -3,13 +3,13 @@ My name is Phong. I am a student of FPT University, majoring in Software Enginee
 ## 📫 How to reach me: 
 
 <!--[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/phongluuu/)-->
-<a style="" href="https://www.linkedin.com/in/phongluuu/">
+<a style="text-decoration: none;" href="https://www.linkedin.com/in/phongluuu/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 24px; height: 24px;" />
   <span>LinkedIn</span>
 </a>
 <br/>
 <!--[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/phonggluu/)-->
-<a style="" href="https://github.com/PhonggLuu/">
+<a style="text-decoration: none;" href="https://github.com/PhonggLuu/">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" style="width: 24px; height: 24px;" />
   <span>Github</span>
 </a>
