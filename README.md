@@ -5,7 +5,14 @@ My name is Luu Phong. I am a student of FPT University, majoring in Software Eng
 [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/phongluuu/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/phonggluu/)
 
-<a href="https://github.com/PhonggLuu/RunningRace"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phonggluu&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://www.linkedin.com/in/phongluuu/">
+  <img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn" />
+</a>
+<a href="https://github.com/phonggluu/">
+  <img src="https://i.stack.imgur.com/tskMh.png" alt="GitHub" />
+</a>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phonggluu&layout=compact&theme=buefy&hide_border=true" />
 
 <a href="https://github.com/PhonggLuu/BirdFarmShop">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
