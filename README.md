@@ -3,16 +3,8 @@ My name is Luu Phong. I am a student of FPT University, majoring in Software Eng
 ## 📫 How to reach me: 
 
 [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phongluuu/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/phonggluu/) 
-<a href="https://www.linkedin.com/in/phongluuu/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://i.stack.imgur.com/gVE0j.png" />
-</a>
-<a href="https://github.com/phonggluu/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://i.stack.imgur.com/tskMh.png" />
-</a>
 
-<a href="https://github.com/PhonggLuu/BadmintonCourtBooking"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phonggluu&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/PhonggLuu/RunningRace"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phonggluu&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <a href="https://github.com/PhonggLuu/BirdFarmShop">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
