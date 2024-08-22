@@ -2,11 +2,8 @@
 My name is Phong. I am a student of FPT University, majoring in Software Engineer. I am interested in the following topics: Back-end Developer with .NET. <br>
 ## 📫 How to reach me: 
 
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/phongluuu/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/phongluuu/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/phonggluu/)
-
-[![LinkedIn](https://img.shields.io/badge/)](https://www.linkedin.com/in/phongluuu/)
-[![GitHub](https://img.shields.io/badge/)](https://github.com/phonggluu/)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phonggluu&layout=compact&theme=buefy&hide_border=true" />
 
