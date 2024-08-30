@@ -23,7 +23,7 @@
 <br/>
 
 <a href="https://www.facebook.com/profile.php?id=100094463646315" style="text-decoration: none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook" style="width: 24px; height: 24px;"  />
   <span>Facebook</span>
 </a>
 <br/>
