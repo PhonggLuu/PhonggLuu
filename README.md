@@ -14,6 +14,7 @@ My name is Phong. I am a student of FPT University, majoring in Software Enginee
   <span>Github</span>
 </a>
 <br/>
+![Phong's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phonggluu&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phonggluu&layout=compact&theme=buefy&hide_border=true" />
 
 <a href="https://github.com/PhonggLuu/BirdFarmShop">
