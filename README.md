@@ -1,6 +1,8 @@
 <h3 align="center">
 Hi there, My name is Luu Phong 👋👋👋
 </h3>
+<hr>
+<br/>
 
 <ul>
   <li>
@@ -12,7 +14,6 @@ Hi there, My name is Luu Phong 👋👋👋
 </ul>
 
 ### 📫 Connect with me:
-<br/>
 <!--[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/phongluuu/)-->
 <a href="https://www.linkedin.com/in/phongluuu/" style="text-decoration: none;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 30px; height: 30px;" /></a>
@@ -26,7 +27,6 @@ Hi there, My name is Luu Phong 👋👋👋
 </a>
 
 ### 🚀 Github Highlight:
-<br/>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phonggluu&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phonggluu&layout=compact&theme=buefy&hide_border=true" />
 
