@@ -4,10 +4,9 @@
     I'm currently studying at FPT University in HCM City, majoring in Software Engineering with a focus on back-end development.
   </li>
   <li>
-    How to reach me: [Email me](mailto:luuphong016@gmail.com)
+    How to reach me: <a href="mailto:luuphong016@gmail.com" target="_blank">luuphong016@gmail.com</a>
   </li>
 </ul>
-My name is Phong. I am a student of FPT University, majoring in Software Engineer. I am interested in the following topics: Back-end Developer with .NET. <br>
 ## 📫 Connect with me: 
 
 <!--[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/phongluuu/)-->
@@ -22,8 +21,12 @@ My name is Phong. I am a student of FPT University, majoring in Software Enginee
   <span>Github</span>
 </a>
 <br/>
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/phongluuu/)
-- **GitHub:** [My GitHub Profile](https://github.com/PhonggLuu/)
+
+<a href="https://www.facebook.com/profile.php?id=100094463646315" style="text-decoration: none;">
+  <img src="[https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://thumbs.dreamstime.com/b/facebook-logo-vector-eps-file-squared-coloured-easily-editable-have-white-background-high-resolution-255556941.jpg)" alt="Facebook" style="width: 24px; height: 24px;" />
+  <span>Facebook</span>
+</a>
+<br/>
 
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phonggluu&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phonggluu&layout=compact&theme=buefy&hide_border=true" />
