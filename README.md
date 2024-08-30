@@ -1,4 +1,7 @@
-### Hi there, My name is Luu Phong 👋👋👋
+<div align="center">
+## Hi there, My name is Luu Phong 👋👋👋
+</div>
+
 <ul>
   <li>
     I'm currently studying at FPT University in HCM City, majoring in Software Engineering with a focus on back-end development.
@@ -7,7 +10,8 @@
     How to reach me: <a href="mailto:luuphong016@gmail.com" target="_blank">luuphong016@gmail.com</a>
   </li>
 </ul>
-# 📫 Connect with me: 
+
+### 📫 Connect with me:
 <br/>
 <!--[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/phongluuu/)-->
 <a href="https://www.linkedin.com/in/phongluuu/" style="text-decoration: none;">
@@ -22,7 +26,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook" style="width: 24px; height: 24px;"  />
 </a>
 
-# 🚀 Github Highlight:
+### 🚀 Github Highlight:
 <br/>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phonggluu&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phonggluu&layout=compact&theme=buefy&hide_border=true" />
