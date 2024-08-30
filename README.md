@@ -1,6 +1,6 @@
-<div align="center">
-## Hi there, My name is Luu Phong 👋👋👋
-</div>
+<h3 align="center">
+Hi there, My name is Luu Phong 👋👋👋
+</h3>
 
 <ul>
   <li>
@@ -15,15 +15,14 @@
 <br/>
 <!--[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/phongluuu/)-->
 <a href="https://www.linkedin.com/in/phongluuu/" style="text-decoration: none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 24px; height: 24px;" />
-</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 30px; height: 30px;" /></a>
 <!--[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/phonggluu/)-->
 <a href="https://github.com/PhonggLuu/" style="text-decoration: none;">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" style="width: 24px; height: 24px;" />
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" style="width: 30px; height: 30px;" />
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100094463646315" style="text-decoration: none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook" style="width: 24px; height: 24px;"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook" style="width: 30px; height: 30px;"  />
 </a>
 
 ### 🚀 Github Highlight:
