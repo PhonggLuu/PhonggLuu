@@ -1,6 +1,14 @@
 ### WELCOME TO MY PAGE 👋👋👋
+<ul>
+  <li>
+    I'm currently studying at FPT University in HCM City, majoring in Software Engineering with a focus on back-end development.
+  </li>
+  <li>
+    How to reach me: [Email me](mailto:luuphong016@gmail.com)
+  </li>
+</ul>
 My name is Phong. I am a student of FPT University, majoring in Software Engineer. I am interested in the following topics: Back-end Developer with .NET. <br>
-## 📫 How to reach me: 
+## 📫 Connect with me: 
 
 <!--[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/phongluuu/)-->
 <a href="https://www.linkedin.com/in/phongluuu/" style="text-decoration: none;">
@@ -14,6 +22,8 @@ My name is Phong. I am a student of FPT University, majoring in Software Enginee
   <span>Github</span>
 </a>
 <br/>
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/phongluuu/)
+- **GitHub:** [My GitHub Profile](https://github.com/PhonggLuu/)
 
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phonggluu&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phonggluu&layout=compact&theme=buefy&hide_border=true" />
