@@ -7,27 +7,23 @@
     How to reach me: <a href="mailto:luuphong016@gmail.com" target="_blank">luuphong016@gmail.com</a>
   </li>
 </ul>
-## 📫 Connect with me: 
+# 📫 Connect with me: 
 <br/>
 <!--[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/phongluuu/)-->
 <a href="https://www.linkedin.com/in/phongluuu/" style="text-decoration: none;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 24px; height: 24px;" />
-  <span>LinkedIn</span>
 </a>
-<br/>
 <!--[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/phonggluu/)-->
 <a href="https://github.com/PhonggLuu/" style="text-decoration: none;">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" style="width: 24px; height: 24px;" />
-  <span>Github</span>
 </a>
-<br/>
 
 <a href="https://www.facebook.com/profile.php?id=100094463646315" style="text-decoration: none;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook" style="width: 24px; height: 24px;"  />
-  <span>Facebook</span>
 </a>
-<br/>
 
+# 🚀 Github Highlight:
+<br/>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phonggluu&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phonggluu&layout=compact&theme=buefy&hide_border=true" />
 
