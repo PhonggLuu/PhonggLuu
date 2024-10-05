@@ -5,14 +5,10 @@
   <img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" width="150"/>
 </div>
 
-<ul>
-  <li>
-    I'm currently studying at FPT University in HCM City, majoring in Software Engineering with a focus on back-end development.
-  </li>
-  <li>
-    How to reach me: <a href="mailto:luuphong016@gmail.com" target="_blank">luuphong016@gmail.com</a>
-  </li>
-</ul>
+### 👉About Me
+- 💳 My full name is **Luu Gia Phong**
+- 🏫 I’m currently studying at **FPT University - Ho Chi Minh City Campus**. My major is **Software Engineering**, focusing on Back-end Development.
+- 🌏 I'm residing in **Thu Duc City, Ho Chi Minh City, Vietnam**
 
 ### 📫 Connect with me:
 <!--[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/phongluuu/)-->
@@ -53,3 +49,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phonggluu&repo=Microservices&theme=radical" />
 </a>
+
+<div align="center">
+  😄 Thanks for visting my site! Have a good day! 😄 <br/>
+</div>
