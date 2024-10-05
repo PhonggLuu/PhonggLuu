@@ -1,8 +1,9 @@
-<h3 align="center">
-Hi there, My name is Luu Phong 👋👋👋
-</h3>
-<hr>
-<br/>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Signika&size=40&pause=1000&color=72FFE7&center=true&vCenter=true&width=1000&lines=WELCOME+TO+MY+SITE%2C+I'M+PHONG.;I+GOT+EVERYTHING+ABOUT+MYSELF+RIGHT+HERE!!;CHECK+IT+OUT!!!" alt="Title"></a>
+</div>
+<div id="header" align="center">
+  <img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" width="150"/>
+</div>
 
 <ul>
   <li>
