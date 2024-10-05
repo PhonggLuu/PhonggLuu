@@ -12,12 +12,12 @@
 
 ### 📫 Connect with me:
 <!--[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/phongluuu/)-->
-<p align="left"> <a href="https://www.linkedin.com/in/phongluuu/"><img src="https://skillicons.dev/icons?i=linkedin"> </a> </p>
-<!--[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/phonggluu/)-->
-<p align="left"> <a href="https://github.com/phonggluu"><img src="https://skillicons.dev/icons?i=github"> </a> </p>
-<p align="left"> <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhbkWbnmVRQxPFHWpNgdHtzgBClmPKBhzsjTgMskbdlmcftNQhccrxtcnvtmvBqzXQFcQZ"><img src="https://skillicons.dev/icons?i=gmail"> </a> </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/phongluuu/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="https://github.com/phonggluu"><img src="https://skillicons.dev/icons?i=github"></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhbkWbnmVRQxPFHWpNgdHtzgBClmPKBhzsjTgMskbdlmcftNQhccrxtcnvtmvBqzXQFcQZ"><img src="https://skillicons.dev/icons?i=gmail"></a>
+</p>
 
-<p align="left"> <a href="https://github.com/phonggluu"><img src="https://skillicons.dev/icons?i=github"> </a> </p>
 ### 🔭 Languages and Tools
 <p align="left"> <a href="https://github.com/phonggluu"><img src="https://skillicons.dev/icons?i=html,css,js,java,cs,dotnet,github,gradle,postgres,visualstudio,vscode,unity,postman,docker,stackoverflow"> </a> </p>
 
