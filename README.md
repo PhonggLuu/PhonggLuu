@@ -12,23 +12,27 @@
 
 ### 📫 Connect with me:
 <!--[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/phongluuu/)-->
-<a href="https://www.linkedin.com/in/phongluuu/" style="text-decoration: none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 30px; height: 30px;" />
-</a>
+<p align="left"> <a href="https://www.linkedin.com/in/phongluuu/"><img src="https://skillicons.dev/icons?i=linkedin"> </a> </p>
 <!--[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/phonggluu/)-->
-<a href="https://github.com/PhonggLuu/" style="text-decoration: none;">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" style="width: 30px; height: 30px;" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100094463646315" style="text-decoration: none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook" style="width: 30px; height: 30px;"  />
-</a>
+<p align="left"> <a href="https://github.com/phonggluu"><img src="https://skillicons.dev/icons?i=github"> </a> </p>
+<p align="left"> <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhbkWbnmVRQxPFHWpNgdHtzgBClmPKBhzsjTgMskbdlmcftNQhccrxtcnvtmvBqzXQFcQZ"><img src="https://skillicons.dev/icons?i=gmail"> </a> </p>
 
-## Languages and Tools
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=html,css,js,java,cs,dotnet,github,gradle,postgres,visualstudio,vscode,unity,postman,docker,stackoverflow"> </a> </p>
+<p align="left"> <a href="https://github.com/phonggluu"><img src="https://skillicons.dev/icons?i=github"> </a> </p>
+### 🔭 Languages and Tools
+<p align="left"> <a href="https://github.com/phonggluu"><img src="https://skillicons.dev/icons?i=html,css,js,java,cs,dotnet,github,gradle,postgres,visualstudio,vscode,unity,postman,docker,stackoverflow"> </a> </p>
 
-### 🚀 Github Highlight:
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phonggluu&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phonggluu&layout=compact&theme=buefy&hide_border=true" />
+## My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=PhonggLuu&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
+
+## Activity On GitHub
+
+<p align="center">
+  <a href="https://github.com/Thinkright20">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PhonggLuu&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
 
 <a href="https://github.com/PhonggLuu/BirdFarmShop">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
