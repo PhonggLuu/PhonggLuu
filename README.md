@@ -23,6 +23,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook" style="width: 30px; height: 30px;"  />
 </a>
 
+## Languages and Tools
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=html,css,js,java,cs,dotnet,github,gradle,postgres,visualstudio,vscode,unity,postman,docker,stackoverflow"> </a> </p>
+
 ### 🚀 Github Highlight:
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phonggluu&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phonggluu&layout=compact&theme=buefy&hide_border=true" />
