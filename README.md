@@ -34,9 +34,9 @@
 </a> 
 </p>
 
-<a href="https://github.com/PhonggLuu/BirdFarmShop">
+<a href="https://github.com/PhonggLuu/Fall2023SWP391_NET1703_Group02">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phonggluu&repo=BirdFarmShop&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phonggluu&repo=Fall2023SWP391_NET1703_Group02&theme=highcontrast" />
 </a>    
 <a href="https://github.com/PhonggLuu/RunningRace">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
