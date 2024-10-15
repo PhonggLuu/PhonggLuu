@@ -19,7 +19,7 @@
 </p>
 
 ### 🔭 Languages and Tools
-<p align="left"> <a href="https://github.com/phonggluu"><img src="https://skillicons.dev/icons?i=html,css,js,java,cs,dotnet,github,gradle,postgres,visualstudio,vscode,unity,postman,docker,stackoverflow"> </a> </p>
+<p align="left"> <a href="https://github.com/phonggluu"><img src="https://skillicons.dev/icons?i=html,css,js,java,cs,dotnet,github,gradle,postgres,unity,postman,docker,stackoverflow"> </a> </p>
 
 ### My Stats:
 <p align="center">
